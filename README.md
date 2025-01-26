@@ -2,11 +2,6 @@
 
 Connectly is a web-app that allows you to engage in text messaging, group messaging, and image sharing with your friends and colleagues in real-time. The app consists of a frontend built with React.js, a WebSocket server using Socket.io and Node.js, and an API created with Node.js, MongoDB, and Express.js.
 
-## Video Demo
-
-Click on the image below to watch the demo video on Youtube. ⬇
-[![Watch the video](https://img.youtube.com/vi/tS2S6GHAja0/0.jpg)](https://youtu.be/tS2S6GHAja0)
-
 ## Live Website
 
 To see the app in action, check out the live demo [here](https://chat-app-flame-three.vercel.app/).
